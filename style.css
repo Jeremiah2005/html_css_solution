@@ -93,12 +93,10 @@ button:hover {
 }
 @media screen and (min-width:600px) {.main-profile {
     text-align: center;
-    width: 50%;
+    width: 60%;
     height: 50%;
-    margin-left: 25px;
-    margin-right: 25px
-    margin-top: 25%;
-    margin-bottom: 25%;
+    margin: auto;
+    
     
 }
     
