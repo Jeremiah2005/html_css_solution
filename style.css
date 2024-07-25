@@ -65,7 +65,7 @@ button {
     font-weight: bold;
 }
 button:active {
-    background: rgb(80%,97%,0%);
+    background: rgb(60%,80%,0%);
     color: black;
     cursor: pointer;
 }
